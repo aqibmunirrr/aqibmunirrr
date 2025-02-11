@@ -9,5 +9,4 @@
 - **AI/ML**: Machine learning, deep learning, and AI applications.
 - **Electronics**: Arduino projects, IoT, and hardware programming.
 
-## My Projects
-- [Analysis of the Titanic Dataset](https://jovian.com/muniraqibmunir/exploring-the-titanic-disaster)
+
