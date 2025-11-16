@@ -1,8 +1,6 @@
 # Hi, I'm Aqib 👋
-- 🎓 CS Student | MERN Stack Developer | Data Analyst
-- 💻 Skills: JavaScript, React, Node.js, MongoDB, Python, SQL, C/C++
-- 📊 Passionate about data analysis and building web applications.
-- 🌱 Currently learning: Advanced React and Machine Learning.
+- 🎓 CS Student 
+- 📊 Passionate about Building Web Apps.
 
 ## My Interests
 - **Web Development**: MERN stack, full-stack applications.
